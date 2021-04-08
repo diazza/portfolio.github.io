@@ -1,0 +1,31 @@
+.color{
+    background-color: purple;
+}
+.container{
+    background-color: darkcyan;
+}
+.nav-link{
+    color: white;
+}
+.h1{
+    justify-content: center;
+    display: flex;
+}
+.portfolio{
+    width: 40%;  
+}
+.text{
+    font-size: 6px;
+}
+.photo{
+    width: 200px;
+    height: 250px;
+}
+.active{
+    font-size: 26px;
+    color: purple;
+}
+.img{
+	display: none;
+	width: 200px;
+}
